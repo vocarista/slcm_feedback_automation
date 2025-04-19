@@ -82,5 +82,5 @@ Always ensure you’re complying with academic honesty and portal usage guidelin
 
 ## 📧 Contact
 
-Maintained by [Your Name]  
+Maintained by Kumar Piyush  
 Feel free to reach out on GitHub or via email if you face issues or want to collaborate.
