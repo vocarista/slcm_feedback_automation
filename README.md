@@ -59,7 +59,7 @@ python yup.py
 ## 📂 File Structure
 
 ```
-feedback_automation.py   # Main script
+yup.py   # Main script
 README.md                # This file
 ```
 
